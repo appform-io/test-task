@@ -17,13 +17,13 @@ Run the image as follows:
 ### Docker
 
 ```shell
-docker run -e ITERATIONS=5 -e LOOP_SLEEP=2 gchr.io/appform-io/test-task
+docker run -e ITERATIONS=5 -e LOOP_SLEEP=2 ghcr.io/appform-io/test-task
 ```
 
 ### Podman
 
 ```shell
-podman run -e ITERATIONS=5 -e LOOP_SLEEP=2 gchr.io/appform-io/test-task
+podman run -e ITERATIONS=5 -e LOOP_SLEEP=2 ghcr.io/appform-io/test-task
 ```
 
 ## License
